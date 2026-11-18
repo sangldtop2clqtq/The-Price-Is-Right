@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" width="200" height="150">
+  <rect width="200" height="150" rx="12" fill="#1e293b"/>
+  <!-- Tách cà phê -->
+  <path d="M65,55 L135,55 L125,108 Q100,118 75,108 Z" fill="#78350f"/>
+  <!-- Quai cốc -->
+  <path d="M130,62 Q152,65 150,85 Q148,102 126,100" fill="none" stroke="#78350f" stroke-width="6" stroke-linecap="round"/>
+  <!-- Khói bốc -->
+  <path d="M85,45 Q90,35 85,25" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+  <path d="M100,42 Q105,32 100,22" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+  <path d="M115,45 Q120,35 115,25" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+  <text x="100" y="138" fill="#cbd5e1" font-family="sans-serif" font-size="11" font-weight="600" text-anchor="middle">Cà phê rang xay</text>
+</svg>

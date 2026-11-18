@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/pricegame">
+    <file>style.css</file>
+    <file>images/placeholder.svg</file>
+    <file>images/milk.svg</file>
+    <file>images/rice.svg</file>
+    <file>images/coffee.svg</file>
+    <file>images/headphones.svg</file>
+    <file>images/keyboard.svg</file>
+  </gresource>
+</gresources>
